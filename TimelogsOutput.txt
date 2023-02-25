@@ -1,0 +1,45 @@
+
+TIMEKEEPING
+Weekly Employee Logs
+
+Week # 1 - Hours Worked: 
+        Sept 1,22            72.00 
+        Sept 2,22             4.00 
+        Sept 3,22            80.00 
+        Sept 4,22            80.00 
+        Sept 5,22            80.00 
+        Sept 6,22            80.00 
+        Sept 7,22            80.00 
+        Total for the Week  476.00 
+Week # 2 - Hours Worked: 
+        Sept  8,22           80.00 
+        Sept  9,22            2.00 
+        Sept 10,22           80.00 
+        Sept 11,22           80.00 
+        Sept 12,22           80.00 
+        Sept 13,22           80.00 
+        Sept 14,22           80.00 
+        Total for the Week  482.00 
+Week # 3 - Hours Worked: 
+        Sept 15,22           80.00 
+        Sept 16,22            0.00 
+        Sept 17,22           80.00 
+        Sept 18,22           80.00 
+        Sept 19,22           80.00 
+        Sept 20,22           80.00 
+        Sept 21,22           80.00 
+        Total for the Week  480.00 
+Week # 4 - Hours Worked: 
+        Sept 22,22           80.00 
+        Sept 23,22            0.00 
+        Sept 24,22           80.00 
+        Sept 25,22           80.00 
+        Sept 26,22           80.00 
+        Sept 27,22           80.00 
+        Sept 28,22           80.00 
+        Total for the Week  480.00 
+Total Hours Worked:       1,918.00 
+Regular Working Hours:    1,920.00 
+Overtime Hours Worked:        6.00 
+Absence/Late/UT Hours:        8.00 
+

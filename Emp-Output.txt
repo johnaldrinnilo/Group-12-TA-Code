@@ -1,0 +1,110 @@
+
+COMPENSATION PACKAGE
+Employee Name: Crisostomo
+Employee Number: 10001
+Compensation Breakdown 
+     Hourly Rate: Php 373.04 
+     Basic Salary: Php 62,670.00 
+     Rice Subsidy: Php 1,500.00 
+     Phone Allowance: Php 1,000.00 
+     Clothing Allowance: Php 1,000.00 
+     Gross Semi-monthly Rate: Php 31,335.00 
+
+COMPENSATION PACKAGE
+Employee Name: Mata,Christian
+Employee Number: 10002
+Compensation Breakdown 
+     Hourly Rate: Php 255.80 
+     Basic Salary: Php 42,975.00 
+     Rice Subsidy: Php 1,500.00 
+     Phone Allowance: Php 800.00 
+     Clothing Allowance: Php 800.00 
+     Gross Semi-monthly Rate: Php 21,487.50 
+
+COMPENSATION PACKAGE
+Employee Name: San_Jose,Brad
+Employee Number: 10003
+Compensation Breakdown 
+     Hourly Rate: Php 255.80 
+     Basic Salary: Php 42,975.00 
+     Rice Subsidy: Php 1,500.00 
+     Phone Allowance: Php 800.00 
+     Clothing Allowance: Php 800.00 
+     Gross Semi-monthly Rate: Php 21,487.50 
+
+COMPENSATION PACKAGE
+Employee Name: Salcedo,Anthony
+Employee Number: 10004
+Compensation Breakdown 
+     Hourly Rate: Php 362.05 
+     Basic Salary: Php 60,825.00 
+     Rice Subsidy: Php 1,500.00 
+     Phone Allowance: Php 1,000.00 
+     Clothing Allowance: Php 1,000.00 
+     Gross Semi-monthly Rate: Php 30,412.50 
+
+COMPENSATION PACKAGE
+Employee Name: Romualdez,Alice
+Employee Number: 10005
+Compensation Breakdown 
+     Hourly Rate: Php 133.93 
+     Basic Salary: Php 22,500.00 
+     Rice Subsidy: Php 1,500.00 
+     Phone Allowance: Php 500.00 
+     Clothing Allowance: Php 500.00 
+     Gross Semi-monthly Rate: Php 11,250.00 
+
+COMPENSATION PACKAGE
+Employee Name: Atienza,Rosie
+Employee Number: 10006
+Compensation Breakdown 
+     Hourly Rate: Php 133.93 
+     Basic Salary: Php 22,500.00 
+     Rice Subsidy: Php 1,500.00 
+     Phone Allowance: Php 500.00 
+     Clothing Allowance: Php 500.00 
+     Gross Semi-monthly Rate: Php 11,250.00 
+
+COMPENSATION PACKAGE
+Employee Name: Farala,Martha
+Employee Number: 10007
+Compensation Breakdown 
+     Hourly Rate: Php 142.86 
+     Basic Salary: Php 24,000.00 
+     Rice Subsidy: Php 1,500.00 
+     Phone Allowance: Php 500.00 
+     Clothing Allowance: Php 500.00 
+     Gross Semi-monthly Rate: Php 12,000.00 
+
+COMPENSATION PACKAGE
+Employee Name: Martinez,Leila
+Employee Number: 10008
+Compensation Breakdown 
+     Hourly Rate: Php 142.86 
+     Basic Salary: Php 24,000.00 
+     Rice Subsidy: Php 1,500.00 
+     Phone Allowance: Php 500.00 
+     Clothing Allowance: Php 500.00 
+     Gross Semi-monthly Rate: Php 12,000.00 
+
+COMPENSATION PACKAGE
+Employee Name: San_Jose,Allison
+Employee Number: 10009
+Compensation Breakdown 
+     Hourly Rate: Php 133.93 
+     Basic Salary: Php 22,500.00 
+     Rice Subsidy: Php 1,500.00 
+     Phone Allowance: Php 500.00 
+     Clothing Allowance: Php 500.00 
+     Gross Semi-monthly Rate: Php 11,250.00 
+
+COMPENSATION PACKAGE
+Employee Name: Rosario,Cydney
+Employee Number: 10010
+Compensation Breakdown 
+     Hourly Rate: Php 133.93 
+     Basic Salary: Php 22,500.00 
+     Rice Subsidy: Php 1,500.00 
+     Phone Allowance: Php 500.00 
+     Clothing Allowance: Php 500.00 
+     Gross Semi-monthly Rate: Php 11,250.00 

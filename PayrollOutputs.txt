@@ -1,0 +1,110 @@
+WEEKLY SALARY COMPUTATION
+Week_#1:20220907
+
+Log Details
+   Regular Hours Worked:   472.00 Hours 
+   OT Hours Worked:        4.00 Hours 
+   Total Hours Worked:     476.00 Hours 
+Gross Wage
+   Basic Pay:                    Php 98,198.57 
+   Rice Subsidy:                 Php 3,750.00 
+   Phone Allowance:              Php 1,650.00 
+   Clothing Allowance:           Php 1,650.00 
+   Overtime Pay:                 Php 669.64 
+   Gross Earnings:               Php 105,918.21 
+Deductions
+   Withholding Tax:              Php 12,503.22 
+   SSS Contribution:             Php 2,677.50 
+   PHIC Contribution:            Php 1,289.81 
+   HDMF Contribution:            Php 250.00 
+   Total Deductions:             Php 16,720.53 
+Net Pay                          Php 89,197.69 
+
+WEEKLY SALARY COMPUTATION
+Week_#2:20220914
+
+Log Details
+   Regular Hours Worked:   480.00 Hours 
+   OT Hours Worked:        2.00 Hours 
+   Total Hours Worked:     482.00 Hours 
+Gross Wage
+   Basic Pay:                    Php 99,270.00 
+   Rice Subsidy:                 Php 3,750.00 
+   Phone Allowance:              Php 1,650.00 
+   Clothing Allowance:           Php 1,650.00 
+   Overtime Pay:                 Php 334.82 
+   Gross Earnings:               Php 106,654.82 
+Deductions
+   Withholding Tax:              Php 12,650.54 
+   SSS Contribution:             Php 2,677.50 
+   PHIC Contribution:            Php 1,289.81 
+   HDMF Contribution:            Php 250.00 
+   Total Deductions:             Php 16,867.85 
+Net Pay                          Php 89,786.97 
+
+WEEKLY SALARY COMPUTATION
+Week_#3:20220921
+
+Log Details
+   Regular Hours Worked:   480.00 Hours 
+   OT Hours Worked:        0.00 Hours 
+   Total Hours Worked:     480.00 Hours 
+Gross Wage
+   Basic Pay:                    Php 99,270.00 
+   Rice Subsidy:                 Php 3,750.00 
+   Phone Allowance:              Php 1,650.00 
+   Clothing Allowance:           Php 1,650.00 
+   Overtime Pay:                 Php 0.00 
+   Gross Earnings:               Php 106,320.00 
+Deductions
+   Withholding Tax:              Php 12,583.57 
+   SSS Contribution:             Php 2,677.50 
+   PHIC Contribution:            Php 1,289.81 
+   HDMF Contribution:            Php 250.00 
+   Total Deductions:             Php 16,800.89 
+Net Pay                          Php 89,519.11 
+
+WEEKLY SALARY COMPUTATION
+Week_#4:20220928
+
+Log Details
+   Regular Hours Worked:   480.00 Hours 
+   OT Hours Worked:        0.00 Hours 
+   Total Hours Worked:     480.00 Hours 
+Gross Wage
+   Basic Pay:                    Php 99,270.00 
+   Rice Subsidy:                 Php 3,750.00 
+   Phone Allowance:              Php 1,650.00 
+   Clothing Allowance:           Php 1,650.00 
+   Overtime Pay:                 Php 0.00 
+   Gross Earnings:               Php 106,320.00 
+Deductions
+   Withholding Tax:              Php 12,583.57 
+   SSS Contribution:             Php 2,677.50 
+   PHIC Contribution:            Php 1,289.81 
+   HDMF Contribution:            Php 250.00 
+   Total Deductions:             Php 16,800.89 
+Net Pay                          Php 89,519.11 
+
+WEEKLY SALARY COMPUTATION
+Overall_Total
+
+Log Details
+   Regular Hours Worked:   1,912.00 Hours 
+   OT Hours Worked:        6.00 Hours 
+   Total Hours Worked:     1,918.00 Hours 
+Gross Wage
+   Basic Pay:                    Php 396,008.57 
+   Rice Subsidy:                 Php 15,000.00 
+   Phone Allowance:              Php 6,600.00 
+   Clothing Allowance:           Php 6,600.00 
+   Overtime Pay:                 Php 1,004.46 
+   Gross Earnings:               Php 425,213.04 
+Deductions
+   Withholding Tax:              Php 50,320.90 
+   SSS Contribution:             Php 10,710.00 
+   PHIC Contribution:            Php 5,159.25 
+   HDMF Contribution:            Php 1,000.00 
+   Total Deductions:             Php 67,190.15 
+Net Pay                          Php 358,022.89 
+
