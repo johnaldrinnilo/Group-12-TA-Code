@@ -294,14 +294,14 @@ public class Main {
 
                                     while (inFile1.hasNext()){
                                         outFile1.println("\n"+"TIMEKEEPING");
-                                        outFile1.println("Weekly Employee Logs"+"\n");
+                                        outFile1.println("Weekly Employee Logs");
 
                                         w1d1 = inFile1.nextDouble();w1d2 = inFile1.nextDouble();w1d3 = inFile1.nextDouble();w1d4 = inFile1.nextDouble();w1d5 = inFile1.nextDouble();w1d6 = inFile1.nextDouble();w1d7 = inFile1.nextDouble();
                                         w2d1 = inFile1.nextDouble();w2d2 = inFile1.nextDouble();w2d3 = inFile1.nextDouble();w2d4 = inFile1.nextDouble();w2d5 = inFile1.nextDouble();w2d6 = inFile1.nextDouble();w2d7 = inFile1.nextDouble();
                                         w3d1 = inFile1.nextDouble();w3d2 = inFile1.nextDouble();w3d3 = inFile1.nextDouble();w3d4 = inFile1.nextDouble();w3d5 = inFile1.nextDouble();w3d6 = inFile1.nextDouble();w3d7 = inFile1.nextDouble();
                                         w4d1 = inFile1.nextDouble();w4d2 = inFile1.nextDouble();w4d3 = inFile1.nextDouble();w4d4 = inFile1.nextDouble();w4d5 = inFile1.nextDouble();w4d6 = inFile1.nextDouble();w4d7 = inFile1.nextDouble();
 
-                                       outFile1.printf("Week # 1 - Hours Worked: " +
+                                       outFile1.printf("%nWeek # 1 - Hours Worked: " +
                                                 "%n        Sept 1,22            %1.2f " +
                                                 "%n        Sept 2,22             %1.2f " +
                                                 "%n        Sept 3,22            %1.2f " +
@@ -311,7 +311,7 @@ public class Main {
                                                 "%n        Sept 7,22            %1.2f %n", w1d1, w1d2, w1d3, w1d4,w1d5,w1d6,w1d7);
                                         w1TH = (w1d1+w1d2+w1d3+w1d4+w1d5+w1d6+w1d7);
                                         outFile1.printf("        Total for the Week  %1.2f %n",w1TH);
-                                        outFile1.printf("Week # 2 - Hours Worked: " +
+                                        outFile1.printf("%nWeek # 2 - Hours Worked: " +
                                                 "%n        Sept  8,22           %1.2f " +
                                                 "%n        Sept  9,22            %1.2f " +
                                                 "%n        Sept 10,22           %1.2f " +
@@ -321,7 +321,7 @@ public class Main {
                                                 "%n        Sept 14,22           %1.2f %n", w2d1, w2d2, w2d3, w2d4,w2d5,w2d6,w2d7);
                                         w2TH = (w2d1+w2d2+w2d3+w2d4+w2d5+w2d6+w2d7);
                                         outFile1.printf("        Total for the Week  %1.2f %n",w2TH);
-                                        outFile1.printf("Week # 3 - Hours Worked: " +
+                                        outFile1.printf("%nWeek # 3 - Hours Worked: " +
                                                 "%n        Sept 15,22           %1.2f " +
                                                 "%n        Sept 16,22            %1.2f " +
                                                 "%n        Sept 17,22           %1.2f " +
@@ -331,7 +331,7 @@ public class Main {
                                                 "%n        Sept 21,22           %1.2f %n", w3d1, w3d2, w3d3, w3d4,w3d5,w3d6,w3d7);
                                         w3TH = (w3d1+w3d2+w3d3+w3d4+w3d5+w3d6+w3d7);
                                         outFile1.printf("        Total for the Week  %1.2f %n",w3TH);
-                                        outFile1.printf("Week # 4 - Hours Worked: " +
+                                        outFile1.printf("%nWeek # 4 - Hours Worked: " +
                                                 "%n        Sept 22,22           %1.2f " +
                                                 "%n        Sept 23,22            %1.2f " +
                                                 "%n        Sept 24,22           %1.2f " +
@@ -344,7 +344,7 @@ public class Main {
 
                                         double wTotals=(w1TH+w2TH+w4TH+w3TH);
 
-                                        outFile1.printf("Total Hours Worked:       %,1.2f %n",wTotals );
+                                        outFile1.printf("%nTotal Hours Worked:       %,1.2f %n",wTotals );
                                         outFile1.printf("Regular Working Hours:    %,1.2f %n", whours.RWH*10*4);
                                         outFile1.printf("Overtime Hours Worked:        %1.2f %n", 6.00);
                                         outFile1.printf("Absence/Late/UT Hours:        %1.2f %n", 8.00);
