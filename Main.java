@@ -364,9 +364,7 @@ public class Main {
                             payroll=DM.payrollCOMPU();
                             switch (payroll){
                                 case 1://Week # 1-PayrollComputation
-                                    Scanner x = new Scanner (System.in);
-                                    System.out.print("Print: ");
-
+                                 
                                     FileReader filereader = new FileReader("TimelogsAll.txt");
                                     Scanner inFile1 = new Scanner(filereader);
                                     PrintWriter outFile = new PrintWriter("PayrollOutputs.txt");
