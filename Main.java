@@ -426,6 +426,11 @@ public class Main {
                                         outFile.printf("   HDMF Contribution:            Php %,1.2f %n", deds.hdmf());
                                         outFile.printf("   Total Deductions:             Php %,1.2f %n", totalded);
                                         outFile.printf("Net Wage for the Week            Php %,1.2f %n", netpay);
+                                        outFile.println();
+                                        outFile.println("Prepared by:                  Verified by:                 Approved by:" +"\n"+
+                                                        "\n"+
+                                                        "Joward Dahryll Malabja        John Aldrin P. Nilo          Joanne Cristine Franco"+"\n"+
+                                                        "*****  This is a computer-generated document. No signature is required. *****");
                                         outFile.println();}
                                     inFile.close();
                                     inFile1.close();
@@ -500,6 +505,11 @@ public class Main {
                                         outFile.printf("   HDMF Contribution:            Php %,1.2f %n", deds.hdmf());
                                         outFile.printf("   Total Deductions:             Php %,1.2f %n", totalded);
                                         outFile.printf("Net Wage for the Week            Php %,1.2f %n", netpay);
+                                        outFile.println();
+                                        outFile.println("Prepared by:                  Verified by:                 Approved by:" +"\n"+
+                                                        "\n"+
+                                                        "Joward Dahryll Malabja        John Aldrin P. Nilo          Joanne Cristine Franco"+"\n"+
+                                                        "*****  This is a computer-generated document. No signature is required. *****");
                                         outFile.println();}
                                     inFile.close();
                                     inFile1.close();
@@ -575,6 +585,11 @@ public class Main {
                                         outFile.printf("   HDMF Contribution:            Php %,1.2f %n", deds.hdmf());
                                         outFile.printf("   Total Deductions:             Php %,1.2f %n", totalded);
                                         outFile.printf("Net Wage for the Week            Php %,1.2f %n", netpay);
+                                        outFile.println();
+                                        outFile.println("Prepared by:                  Verified by:                 Approved by:" +"\n"+
+                                                        "\n"+
+                                                        "Joward Dahryll Malabja        John Aldrin P. Nilo          Joanne Cristine Franco"+"\n"+
+                                                        "*****  This is a computer-generated document. No signature is required. *****");
                                         outFile.println();}
                                     inFile.close();
                                     inFile1.close();
@@ -650,6 +665,11 @@ public class Main {
                                         outFile.printf("   HDMF Contribution:            Php %,1.2f %n", deds.hdmf());
                                         outFile.printf("   Total Deductions:             Php %,1.2f %n", totalded);
                                         outFile.printf("Net Wage for the Week            Php %,1.2f %n", netpay);
+                                        outFile.println();
+                                        outFile.println("Prepared by:                  Verified by:                 Approved by:" +"\n"+
+                                                        "\n"+
+                                                        "Joward Dahryll Malabja        John Aldrin P. Nilo          Joanne Cristine Franco"+"\n"+
+                                                        "*****  This is a computer-generated document. No signature is required. *****");
                                         outFile.println();}
                                     inFile.close();
                                     inFile1.close();
@@ -707,6 +727,11 @@ public class Main {
                                         outFile.printf("   HDMF Contribution:            Php %,1.2f %n", hdmf);
                                         outFile.printf("   Total Deductions:             Php %,1.2f %n", totalded);
                                         outFile.printf("Net Pay                          Php %,1.2f %n", netpay);
+                                        outFile.println();
+                                        outFile.println("Prepared by:                  Verified by:                 Approved by:" +"\n"+
+                                                        "\n"+
+                                                        "Joward Dahryll Malabja        John Aldrin P. Nilo          Joanne Cristine Franco"+"\n"+
+                                                        "*****  This is a computer-generated document. No signature is required. *****");
                                         outFile.println();}
                                     inFile.close();
                                     outFile.close();
