@@ -11,6 +11,7 @@ public class whours {
             return 0.00;
         } else
             return RWH;}
+
     static double OTHours() {
         if (TAH > RWH)
             return (TAH-RWH);
@@ -26,6 +27,7 @@ public class whours {
             return 0.00;
         else
             return 0.00;}
+
     static double regOTRate() {
         return (125.00/100.00);}
 

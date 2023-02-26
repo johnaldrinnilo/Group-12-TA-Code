@@ -387,7 +387,7 @@ public class Main {
                                         outFile.println("WEEKLY SALARY COMPUTATION");
                                         outFile.println("Covered Period: September 1 to 7, 2022");
                                         outFile.println("Employee Name: "+name);
-                                        outFile.println("Employee Name: "+EmpNo+"\n");
+                                        outFile.println("Employee Number: "+EmpNo+"\n");
 
                                         w1d1 = inFile1.nextDouble();w1d2 = inFile1.nextDouble();w1d3 = inFile1.nextDouble();w1d4 = inFile1.nextDouble();w1d5 = inFile1.nextDouble();w1d6 = inFile1.nextDouble();w1d7 = inFile1.nextDouble();
                                         w2d1 = inFile1.nextDouble();w2d2 = inFile1.nextDouble();w2d3 = inFile1.nextDouble();w2d4 = inFile1.nextDouble();w2d5 = inFile1.nextDouble();w2d6 = inFile1.nextDouble();w2d7 = inFile1.nextDouble();
@@ -466,7 +466,7 @@ public class Main {
                                         outFile.println("WEEKLY SALARY COMPUTATION");
                                         outFile.println("September 8 to 14, 2022");
                                         outFile.println("Employee Name: "+name);
-                                        outFile.println("Employee Name: "+EmpNo+"\n");
+                                        outFile.println("Employee Number: "+EmpNo+"\n");
 
                                         w1d1 = inFile1.nextDouble();w1d2 = inFile1.nextDouble();w1d3 = inFile1.nextDouble();w1d4 = inFile1.nextDouble();w1d5 = inFile1.nextDouble();w1d6 = inFile1.nextDouble();w1d7 = inFile1.nextDouble();
                                         w2d1 = inFile1.nextDouble();w2d2 = inFile1.nextDouble();w2d3 = inFile1.nextDouble();w2d4 = inFile1.nextDouble();w2d5 = inFile1.nextDouble();w2d6 = inFile1.nextDouble();w2d7 = inFile1.nextDouble();
@@ -546,7 +546,7 @@ public class Main {
                                         outFile.println("WEEKLY SALARY COMPUTATION");
                                         outFile.println("September 15 to 21, 2022");
                                         outFile.println("Employee Name: "+name);
-                                        outFile.println("Employee Name: "+EmpNo+"\n");
+                                        outFile.println("Employee Number: "+EmpNo+"\n");
 
                                         w1d1 = inFile1.nextDouble();w1d2 = inFile1.nextDouble();w1d3 = inFile1.nextDouble();w1d4 = inFile1.nextDouble();w1d5 = inFile1.nextDouble();w1d6 = inFile1.nextDouble();w1d7 = inFile1.nextDouble();
                                         w2d1 = inFile1.nextDouble();w2d2 = inFile1.nextDouble();w2d3 = inFile1.nextDouble();w2d4 = inFile1.nextDouble();w2d5 = inFile1.nextDouble();w2d6 = inFile1.nextDouble();w2d7 = inFile1.nextDouble();
@@ -626,7 +626,7 @@ public class Main {
                                         outFile.println("WEEKLY SALARY COMPUTATION");
                                         outFile.println("September 22 to 28, 2022");
                                         outFile.println("Employee Name: "+name);
-                                        outFile.println("Employee Name: "+EmpNo+"\n");
+                                        outFile.println("Employee Number: "+EmpNo+"\n");
 
                                         w1d1 = inFile1.nextDouble();w1d2 = inFile1.nextDouble();w1d3 = inFile1.nextDouble();w1d4 = inFile1.nextDouble();w1d5 = inFile1.nextDouble();w1d6 = inFile1.nextDouble();w1d7 = inFile1.nextDouble();
                                         w2d1 = inFile1.nextDouble();w2d2 = inFile1.nextDouble();w2d3 = inFile1.nextDouble();w2d4 = inFile1.nextDouble();w2d5 = inFile1.nextDouble();w2d6 = inFile1.nextDouble();w2d7 = inFile1.nextDouble();
