@@ -28,10 +28,11 @@ public class Main {
             else
                 System.out.println("You have entered an incorrect credential...");
             retry--;}
+
         if (retry>0){
             System.out.print("\n" + "Welcome " + UserName + "! Please select a value from the Display Menu:" + "\n");
 
-//TO DISPLAY MAIN MENU
+        //TO DISPLAY MAIN MENU
             int mainmenu=0;
             do {
               mainmenu = DM.displayMenu(input);
@@ -135,6 +136,8 @@ public class Main {
                                     outFile.printf("Regular Working Hours:    %1.2f %n", whours.RWH);
                                     outFile.printf("Overtime Hours Worked:     %1.2f %n", whours.OTHours());
                                     outFile.printf("Absence/Late/UT Hours:     %1.2f %n",  whours.LateUTHours());
+                                    outFile.println();
+                                    outFile.println("***** Captured via a Biometric Recognition System. *****");
                                     outFile.println();}
                                 inFile.close();
                                 outFile.close();
@@ -179,6 +182,8 @@ public class Main {
                                         outFile1.printf("Regular Working Hours:    %1.2f %n", whours.RWH);
                                         outFile1.printf("Overtime Hours Worked:     %1.2f %n", whours.OTHours());
                                         outFile1.printf("Absence/Late/UT Hours:     %1.2f %n",  whours.LateUTHours());
+                                        outFile1.println();
+                                        outFile1.println("***** Captured via a Biometric Recognition System. *****");
                                         outFile1.println();}
                                     inFile1.close();
                                     outFile1.close();
@@ -223,6 +228,8 @@ public class Main {
                                         outFile1.printf("Regular Working Hours:    %1.2f %n", whours.RWH);
                                         outFile1.printf("Overtime Hours Worked:     %1.2f %n", whours.OTHours());
                                         outFile1.printf("Absence/Late/UT Hours:     %1.2f %n",  whours.LateUTHours());
+                                        outFile1.println();
+                                        outFile1.println("***** Captured via a Biometric Recognition System. *****");
                                         outFile1.println();}
                                     inFile1.close();
                                     outFile1.close();
@@ -267,6 +274,8 @@ public class Main {
                                         outFile1.printf("Regular Working Hours:    %1.2f %n", whours.RWH);
                                         outFile1.printf("Overtime Hours Worked:     %1.2f %n", whours.OTHours());
                                         outFile1.printf("Absence/Late/UT Hours:     %1.2f %n",  whours.LateUTHours());
+                                        outFile1.println();
+                                        outFile1.println("***** Captured via a Biometric Recognition System. *****");
                                         outFile1.println();}
                                     inFile1.close();
                                     outFile1.close();
@@ -339,6 +348,8 @@ public class Main {
                                         outFile1.printf("Regular Working Hours:    %,1.2f %n", whours.RWH*10*4);
                                         outFile1.printf("Overtime Hours Worked:        %1.2f %n", 6.00);
                                         outFile1.printf("Absence/Late/UT Hours:        %1.2f %n", 8.00);
+                                        outFile1.println();
+                                        outFile1.println("***** Captured via a Biometric Recognition System. *****");
                                         outFile1.println();}
                                     inFile1.close();
                                     outFile1.close();
@@ -364,7 +375,7 @@ public class Main {
                             payroll=DM.payrollCOMPU();
                             switch (payroll){
                                 case 1://Week # 1-PayrollComputation
-                                 
+
                                     FileReader filereader = new FileReader("TimelogsAll.txt");
                                     Scanner inFile1 = new Scanner(filereader);
                                     PrintWriter outFile = new PrintWriter("PayrollOutputs.txt");
@@ -507,9 +518,9 @@ public class Main {
                                         outFile.printf("Net Wage for the Week            Php %,1.2f %n", netpay);
                                         outFile.println();
                                         outFile.println("Prepared by:                  Verified by:                 Approved by:" +"\n"+
-                                                        "\n"+
-                                                        "Joward Dahryll Malabja        John Aldrin P. Nilo          Joanne Cristine Franco"+"\n"+
-                                                        "*****  This is a computer-generated document. No signature is required. *****");
+                                                "\n"+
+                                                "Joward Dahryll Malabja        John Aldrin P. Nilo          Joanne Cristine Franco"+"\n"+
+                                                "*****  This is a computer-generated document. No signature is required. *****");
                                         outFile.println();}
                                     inFile.close();
                                     inFile1.close();
@@ -587,9 +598,9 @@ public class Main {
                                         outFile.printf("Net Wage for the Week            Php %,1.2f %n", netpay);
                                         outFile.println();
                                         outFile.println("Prepared by:                  Verified by:                 Approved by:" +"\n"+
-                                                        "\n"+
-                                                        "Joward Dahryll Malabja        John Aldrin P. Nilo          Joanne Cristine Franco"+"\n"+
-                                                        "*****  This is a computer-generated document. No signature is required. *****");
+                                                "\n"+
+                                                "Joward Dahryll Malabja        John Aldrin P. Nilo          Joanne Cristine Franco"+"\n"+
+                                                "*****  This is a computer-generated document. No signature is required. *****");
                                         outFile.println();}
                                     inFile.close();
                                     inFile1.close();
@@ -667,9 +678,9 @@ public class Main {
                                         outFile.printf("Net Wage for the Week            Php %,1.2f %n", netpay);
                                         outFile.println();
                                         outFile.println("Prepared by:                  Verified by:                 Approved by:" +"\n"+
-                                                        "\n"+
-                                                        "Joward Dahryll Malabja        John Aldrin P. Nilo          Joanne Cristine Franco"+"\n"+
-                                                        "*****  This is a computer-generated document. No signature is required. *****");
+                                                "\n"+
+                                                "Joward Dahryll Malabja        John Aldrin P. Nilo          Joanne Cristine Franco"+"\n"+
+                                                "*****  This is a computer-generated document. No signature is required. *****");
                                         outFile.println();}
                                     inFile.close();
                                     inFile1.close();
@@ -729,9 +740,9 @@ public class Main {
                                         outFile.printf("Net Pay                          Php %,1.2f %n", netpay);
                                         outFile.println();
                                         outFile.println("Prepared by:                  Verified by:                 Approved by:" +"\n"+
-                                                        "\n"+
-                                                        "Joward Dahryll Malabja        John Aldrin P. Nilo          Joanne Cristine Franco"+"\n"+
-                                                        "*****  This is a computer-generated document. No signature is required. *****");
+                                                "\n"+
+                                                "Joward Dahryll Malabja        John Aldrin P. Nilo          Joanne Cristine Franco"+"\n"+
+                                                "*****  This is a computer-generated document. No signature is required. *****");
                                         outFile.println();}
                                     inFile.close();
                                     outFile.close();
@@ -759,8 +770,7 @@ public class Main {
                         System.out.println("Please enter a value between 1 to 4");
                         break;
                 }
-            } while (mainmenu != 4);
-        }
+            } while (mainmenu != 4);}
         else
         {
             System.out.println("Ooops! The Third time is the charm!!! (-_-)" + "\n"+

@@ -13,7 +13,7 @@ public class DM {
         return input.nextInt();
     }
 
-    //Presents the individual Employee Records using a filereader and scanner to read 2 text files:
+    //Viewing the individual Employee Records using a filereader and scanner to read 2 text files:
     //One showing Employee profile and another one for compensation packages of each employee.
     public static int emprec() {
         Scanner input = new Scanner(System.in);
